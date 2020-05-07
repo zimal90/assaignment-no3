@@ -1,0 +1,61 @@
+ .leg2{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-display: bold;
+}
+.hand2{
+background-color: #1E90FF;
+}
+.foot1{
+max-height: 100%;
+max-width: 100%;
+/* border: 1px solid black; */
+ background-color: #88808034;
+display: flex;
+flex-direction: row; 
+
+
+
+
+
+
+
+.foot2{
+max-height: 100%;
+max-width: 100%;
+/* border: 1px solid black; */
+background-color: #0066cc;
+} 
+
+.finger4{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.leg1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+display: inline-block;
+}
+.finger5{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+display: flex;
+cursor: pointer;
+display: bold;
+}
+.finger3{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
