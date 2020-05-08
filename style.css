@@ -12,19 +12,12 @@ max-width: 100%;
  background-color: #88808034;
 display: flex;
 flex-direction: row; 
-
-
-
-
-
-
-
+}
 .foot2{
 max-height: 100%;
 max-width: 100%;
 /* border: 1px solid black; */
-background-color: #0066cc;
-} 
+background-color: #0066cc;} 
 
 .finger4{
   font-family: Georgia, 'Times New Roman', Times, serif;
